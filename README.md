@@ -34,6 +34,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/gvmmode/gvmmode/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/gvmmode/gvmmode/refs/heads/main/snake-output/snake.svg" alt="Snake animation" />
 
 ###
